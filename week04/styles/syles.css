@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Caveat&family=Vollkorn:ital,wght@0,700;1,500;1,600;1,700&display=swap');
+
+:root {
+    --primary-color: #aed9e0 ;
+    --secondary-color: #5e6472 ;
+    --accent1-color: #ffa69e ;
+    /* background-color: #aed9e0 */
+}
+
+head, body, footer{
+    background-color: #aed9e0;
+    text-align: center;
+}
+
+h1 p{
+    color: white;
+    font-size: 2em;
+}
+
+h1:hover {
+    background-color: #5e6472;
+    color: #ffa69e;
+}
+
+h2 {
+    color: #5e6472;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+img {
+    width: 30%;
+}
+
+h3 {
+    color: white;
+    width: 50%;
+    margin: 80px auto;
+}
+
+footer p {
+    font-size: 10px;
+    color: #5e6472;
+    margin: 20px auto;
+    line-height: 1em;
+}
