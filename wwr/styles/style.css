@@ -1,4 +1,5 @@
 #content{
+    background-color:#fefae0;
     max-width: 1600px;
     margin: 0 auto;
     text-align: center;
@@ -17,7 +18,7 @@ nav a {
 }
 
 h4 {
-    background-color: #fefae0;
+    background-color: #bc6c25;
 }
 
 #hero-msg h1 {
@@ -34,7 +35,7 @@ main section {
 
 #background {
     height: 725px;
-    background-color: #fefae0;
+    background-color: #dda15e;
 }
 
 body {
@@ -73,12 +74,12 @@ nav a:hover {
 }
 
 .msg {
-    background-color: #606c38;
+    background-color: #dda15e;
 }
 
 .msg h2{
     /* background-color: #606c38; */
-    color: white;
+    color: black;
 }
 
 .msg p {
@@ -87,7 +88,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #283618;
+    background-color: #bc6c25;
 }
 
 footer a {
