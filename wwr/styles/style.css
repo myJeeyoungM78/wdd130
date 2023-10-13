@@ -1,23 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
 #content {
     background-color:#fefae0;
     max-width: 1600px;
     margin: 0 auto;
-    text-align: center;
+    /* text-align: center; */
 }
 
 nav a {
-    color: #fefae0;
+    color: #fcfbfb;
     text-align: center;
     text-decoration: none;
+    padding: 35px;
 }
 
 .home-title {
-    background-color: #bc6c25;
-    color: #fefae0;
+    background-color: #fefae0;
+    color: #dda15e;
+    font-family: 'Rock salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 
 h4 {
-    background-color: #bc6c25;
+    background-color: #fefae0;
+    text-align: center;
 }
 
 #hero-msg h1 {
@@ -32,13 +40,26 @@ main section {
     text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+
 #background {
     height: 725px;
     background-color: #dda15e;
 }
 
 body {
-    background-color: white;
+    background-color: #fcfbfb;
+    font-size: 22px;
+    font-family: Raleway, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+h2 {
+    margin: 0;
 }
 
 header {
@@ -54,6 +75,10 @@ nav a:hover {
     background-color: #bc6c25;
     color: white;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover {
@@ -65,6 +90,18 @@ nav a:hover {
     background-color: #bc6c25;
     color: #fefae0;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
 }
 
 .join:hover {
@@ -74,20 +111,27 @@ nav a:hover {
 
 .msg {
     background-color: #dda15e;
+    line-height: 1.5em;
+    padding: 35px;
 }
 
 .msg h2{
     /* background-color: #606c38; */
     color: black;
+    font-family: 'Bradley Hand';
 }
 
 .msg p {
     /* background-color: #606c38; */
     color: white;
+    font-size: o.8em;
+    padding-bottom: 15px;
 }
 
 footer {
     background-color: #bc6c25;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer a {
@@ -105,8 +149,13 @@ footer a:hover {
     width: 80px;
 }
 
+#logo_link {
+    padding-top: 5px;
+}
+
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-img {
@@ -119,4 +168,8 @@ footer p{
 
 footer p a:hover {
     text-decoration: underline;
+}
+
+footer .social img {
+    padding-top: 15px;
 }
