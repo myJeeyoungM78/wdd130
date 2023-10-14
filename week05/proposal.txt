@@ -1,0 +1,31 @@
+(The proposal should include the purpose of your website in 2-3 sentences and the intended audience.)
+
+The website purpose
+
+    I'm planning a hobby sharing website. 
+    The main page is designed to be an attractive advertising page with useful information for your hobby. A child page where you can sell knitted products from the same hobby. 
+    I'm thinking of a child page where you can purchase knitting supplies.
+
+
+
+(Information about your personal site that might be
+helpful to know as you start the site plan.
+
+By the end of this course:
+
+1. The personal site must consist of a home page and at least two child pages:
+
+2. The website must be hosted on the web.
+
+3. Each page of your Web site must satisfy the following requirements:
+
+    3.1. Significant textual content consisitng of approprate content for your audience
+        so that they can understand the meaning and message of this site.
+
+    3.2. At least one image that relates to the content of the page.
+
+    3.3. Working links to your two child pages.
+
+    3.4. Be laid out and styled according to your site plan wireframes.
+
+    3.5. Be visually appealing and easily readable.)
