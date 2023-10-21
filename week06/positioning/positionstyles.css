@@ -188,7 +188,7 @@
   width: 100%; 
   height: 200px; 
   background-color: gold; 
-  font-size: 0.8em;
+  /* font-size: 0.8em; */
   /* grid-row: 2; */
 } 
 
