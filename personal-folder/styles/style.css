@@ -324,7 +324,7 @@ main section img {
     opacity: 1;
   }
   
-  .text {
+  .text a{
     background-color: #5e5e5e;
     color: white;
     font-size: 25px;
@@ -561,11 +561,12 @@ footer .social img {
     /* background-color: #d9c2a3; */
     color: white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
     padding: 15px 30px;
     margin-top: 50px;
     line-height: 1.5em;
     border-radius: 25px;
+    text-indent: 30px;
 }
 
 .infor-img:hover {
