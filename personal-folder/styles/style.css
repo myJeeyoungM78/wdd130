@@ -738,6 +738,7 @@ footer .social img {
 
 .finding-card, .making-card {
     margin: 100px 0;
+    margin-top: -10px;
 }
 
 .finding-card {
